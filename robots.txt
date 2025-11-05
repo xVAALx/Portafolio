@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tu-usuario.github.io/portfolio/sitemap.xml
+
+# Crawl-delay (opcional)
+Crawl-delay: 1
+
+# Páginas bloqueadas (si las hay)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Optimizaciones específicas
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0

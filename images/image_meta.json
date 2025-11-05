@@ -1,0 +1,182 @@
+[
+  {
+    "query": "Python backend code and API development visualization",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/4T5Gnrmzjak/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 129662,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9328206172047142,
+      "file_name": "backend_api_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Python backend code and API development visualization",
+    "image_info": {
+      "url": "https://media.licdn.com/dms/image/v2/D4D12AQGcLTV-JXZ4Cg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681485167954?e=2147483647&v=beta&t=M3AIg089VVAviF2QHwIPBGrWWxevjTuyf5rjLBNL62o",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 223769,
+      "width": 1280,
+      "height": 682,
+      "total_pixels": 872960,
+      "basic_score": 0.9244087001179735,
+      "file_name": "backend_api_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Python backend code and API development visualization",
+    "image_info": {
+      "url": "https://godotforums.org/assets/files/2023-10-27/1698437952-571246-image.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 108224,
+      "width": 1020,
+      "height": 855,
+      "total_pixels": 872100,
+      "basic_score": 0.9111567563352471,
+      "file_name": "backend_api_8.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Data processing with pandas showing CSV/Excel analysis",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/vjCctma5dYg/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 121919,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9320683539509145,
+      "file_name": "data_processing_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Data processing with pandas showing CSV/Excel analysis",
+    "image_info": {
+      "url": "https://miro.medium.com/v2/resize:fit:1400/1*dMRNmePMqLpSzlGZ4jmOsg.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 181371,
+      "width": 1400,
+      "height": 709,
+      "total_pixels": 992600,
+      "basic_score": 0.9190649238471947,
+      "file_name": "data_processing_4.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Data processing with pandas showing CSV/Excel analysis",
+    "image_info": {
+      "url": "https://jalammar.github.io/images/pandas-intro/0%20excel-to-pandas.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 225976,
+      "width": 1435,
+      "height": 583,
+      "total_pixels": 836605,
+      "basic_score": 0.8709337450468876,
+      "file_name": "data_processing_0.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A data analysis dashboard showing charts and visualizations for portfolio projects",
+    "image_info": {
+      "url": "https://miro.medium.com/1*bZjPtucT8O1esjQaGQenHw.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 1341071,
+      "width": 1144,
+      "height": 934,
+      "total_pixels": 1068496,
+      "basic_score": 0.9053048343447407,
+      "file_name": "data_dashboard_0.gif"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A data analysis dashboard showing charts and visualizations for portfolio projects",
+    "image_info": {
+      "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2021/07/RAPIDS-GPU_Pic1.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 189546,
+      "width": 936,
+      "height": 526,
+      "total_pixels": 492336,
+      "basic_score": 0.8541172716421992,
+      "file_name": "data_dashboard_2.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A data analysis dashboard showing charts and visualizations for portfolio projects",
+    "image_info": {
+      "url": "https://miro.medium.com/v2/resize:fit:1400/1*jtyrXgr7ktlUxQA2HcPwqQ.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 80837,
+      "width": 813,
+      "height": 517,
+      "total_pixels": 420321,
+      "basic_score": 0.8201334672742986,
+      "file_name": "data_dashboard_7.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A professional dark-themed workspace with code editor and terminal for hero background",
+    "image_info": {
+      "url": "https://miro.medium.com/0*M-nbKpaJOiBFhGn8.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 42524,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9240384413936586,
+      "file_name": "hero_background_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A professional dark-themed workspace with code editor and terminal for hero background",
+    "image_info": {
+      "url": "https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Fterminal-for-js-devs%2Ft-rm-r.png&w=3840&q=75",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 59481,
+      "width": 1372,
+      "height": 894,
+      "total_pixels": 1226568,
+      "basic_score": 0.9099087231001481,
+      "file_name": "hero_background_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A professional dark-themed workspace with code editor and terminal for hero background",
+    "image_info": {
+      "url": "https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Fterminal-for-js-devs%2Ft-rm-rf.png&w=3840&q=75",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 45453,
+      "width": 1372,
+      "height": 894,
+      "total_pixels": 1226568,
+      "basic_score": 0.9085168597598219,
+      "file_name": "hero_background_2.jpg"
+    },
+    "llm_score": null
+  }
+]
